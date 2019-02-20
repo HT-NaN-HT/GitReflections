@@ -1,0 +1,5 @@
+13. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+- Merging two branches results in a single working version with changes imported. The changes imporated are all verified and we want them to the be in the master code.
+
+- A branch diagram is a simple way to view all the merges. Also check if they are pefect.
