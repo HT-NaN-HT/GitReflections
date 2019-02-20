@@ -1,0 +1,5 @@
+4. Why do you think some verison control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file seperately?
+
+- Saving multiple files is a way to keep track of the whole project. This is done successfully by Git. This also helps track the inter-dependencies of different files.
+
+- In GoogleDocs, single files are comprehensively tracked and no interdependencies of files are accounted. 
