@@ -1,0 +1,6 @@
+10. How can you use the staging area to make sure you have one commit per logical change?
+
+- Staging are is the area before the next commit snapshot. 
+
+- Every change can be added to the staging area and later a commit can be done when sufficient changes are finally made.
+
