@@ -1,0 +1,5 @@
+8. What happens when you initialize a repository? Why do you need to do it?
+
+- ".git" folder is created when I initialize a repository using "git init" command.
+
+- The created folder keeps track (takes snapshots) of the files in the repository.
