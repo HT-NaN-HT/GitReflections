@@ -1,0 +1,3 @@
+7. Now that you have your workspace set up, what do you want to try using Git for?
+
+- I am revisiting a programming project (CUDA- GPU programming for TRIDIS). Using Git as learnt would improve my chances of having a workable program at any point of time. 

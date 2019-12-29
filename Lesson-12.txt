@@ -1,0 +1,5 @@
+12. How do the diagrams help you visualize the branch structure?
+
+- In the case of our own multiple implementations in the code, we can see on which stage of implementation we are.
+
+- If we are accessing a new brach of some other person, brach structure helps us to see where the changes started w.r.t the master. 

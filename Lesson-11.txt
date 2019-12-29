@@ -1,0 +1,11 @@
+11. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+- During an experimental coding stage.
+
+- Implementing a new method without the problem of losing the working older version.
+
+- Branches can be used to show the working version of the program, by checkingout the oldest working version.
+
+- When we have bugged master version and updates to master version needs to be reflected in a branched experimental version.
+
+- Compartmentalize work; Stop and work on something else if bored.

@@ -1,0 +1,9 @@
+9. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+- staging area can be viewed as a link between working directory and repository. 
+
+- Initially, the working directory contains files of the project and the repository is empty before initializing.
+
+- After initialization of git repository, files can be added to make commits however necessary.
+
+- It is the stage where project history has started its creation. 

@@ -1,0 +1,8 @@
+1. How did viewing a difference between two version help you spot the bug? 
+
+- Viewing only the change in two versions made it easier to spot THE BUG.
+
+- Instead of starting to understand what each and every line of the code does; with the glimpses at only the line/s changed, we can create a crude idea on what a particular line/s do/es. We can also create a more solid working idea of the line by looking at the lines above and below the changed line/s.
+
+- Last, but-not-the-least, this process of viewing difference between two versions saves a lot a time.
+ 

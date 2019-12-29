@@ -1,0 +1,11 @@
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+- GoogleDocs; Wikipedia; Dropbox are some examples which use version control.
+
+- Having access to the entire history of a file makes it easier to correct our coding practises. It is generally for the implementation of an advanced idea that we update or edit a file. Comments at every new implementation (bugged or perfectly working) will give us an idea on which concept work and in a better way. 
+
+- Comments at every new implementations will also create a small timeline of our advancements in the work. This timeline is futher very helpful while wrapping up the project or writing a report on the work carried out.
+
+
+- 
+- 

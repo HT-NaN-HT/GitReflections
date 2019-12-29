@@ -1,0 +1,7 @@
+6. How might using version control make you more confident to make changes that could break something?
+
+- Having versions of the changing file will help us try new things to complete the project. 
+
+- If something goes wrong, the help from Git versions will always guide us to find the working version of the project.
+
+- Bigger projects with more and more changes will be easy-peasy to track with Git.

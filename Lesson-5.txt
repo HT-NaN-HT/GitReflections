@@ -1,0 +1,5 @@
+5. How can you use the commands git log and git diff to view the history of files?
+
+- "git log" displays information of all the commits made.; Each commit will have AuthorsID, Date and Time of commit and commitID itself.
+
+- "git diff ID1 ID2", like the diff file1 file2, informs the user about the changes in the two files. Only the changes in the two commits with ID1 and ID2 are highlighted with '+' showing lines/code added and '-' showing lines/code deleted in the commit ID1 with reference to commit ID2. 
